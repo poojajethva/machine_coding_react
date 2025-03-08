@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { useState } from 'react'
 import AlarmsList from './AlarmsList'
 import { AlarmType } from './types'
 const Alarms = () => {
